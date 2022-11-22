@@ -5,6 +5,6 @@ predecting the absenteeism rate for employees using collected employees' feature
 ## steps:
 ### 1-preprocessing 
 - starting with 'preprocessing.ipynb' notebook:
-> 1- uploaded the "Absenteeism_data.csv" data
-> 2- investegating the data
-> 3- working on each column at a time. fixing errories notes in the column and preprocessing it to the next phase ML
+> 1- uploaded the "Absenteeism_data.csv" data <br>
+> 2- investegating the data <br>
+> 3- working on each column at a time. fixing errories notes in the column and preprocessing it to the next phase ML <br>
