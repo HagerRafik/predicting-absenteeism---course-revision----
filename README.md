@@ -32,4 +32,4 @@ predecting the absenteeism rate for employees using collected employees' feature
 > 4- storing the predicted data in a MySQL database <br>
 
 ### 4- visualizing the findings using Tableau
-xxxxxxxxxxxxxxxxxxxxxx
+> https://public.tableau.com/views/absenteeism_predictions_1/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
